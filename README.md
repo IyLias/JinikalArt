@@ -1,2 +1,6 @@
 # JinikalArt
-Offcial JinikalArt Website
+Offcial JinikalArt Website 
+
+www.jinikalart.com
+
+
