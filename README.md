@@ -6,8 +6,8 @@ Although I use AI, my goal is to create something meaningful and inspiring throu
 
 <br>
 
-## Offcial JinikalArt Website 
+## Offcial JinikalArt Website
 
 <img src="https://github.com/user-attachments/assets/d9bb7673-acce-4914-ac63-37f6bfb80ff3" alt="JinikalArt Website" width="750" />
 
-👉 [Visit Jinikal Art Website](https://jinikalart.com)
+<br> 👉 [Visit Jinikal Art Universe](https://jinikalart.com)
