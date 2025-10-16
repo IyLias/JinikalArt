@@ -1,4 +1,4 @@
-# JinikalArt
+# Jinikal Art
 
 Jinikal Art is a creative universe blending AI art, surreal art, cinematic short films, sci-fi films and ambient music where imagination meets technology, philosophy and emotion. My universe begins with imagination, the boundless space where all ideas are born.
 
