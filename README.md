@@ -4,9 +4,11 @@ Jinikal Art is a creative universe blending AI art, surreal art, cinematic short
 
 My goal is to create something meaningful and inspiring through it. So I hope to awaken creativity and a sense of wonder in you.
 
+<br>
 
-## Offcial JinikalArt Website
+## Offcial Jinikal Art Website
 
-<img src="https://github.com/user-attachments/assets/d9bb7673-acce-4914-ac63-37f6bfb80ff3" alt="JinikalArt Website" width="750" />
+👉 [Visit Jinikal Art Universe](https://jinikal.art)
 
-<br> 👉 [Visit Jinikal Art Universe](https://jinikalart.com)
+<img src="https://github.com/user-attachments/assets/d443e197-ca27-41a7-b235-cd4e51bf279a" alt="JinikalArt Website" width="750" height="900"/> 
+<img src="https://github.com/user-attachments/assets/b63fd63c-34bf-402c-b2ba-f7672a9945ee" alt="JinikalArt Website" width="750" />
