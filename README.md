@@ -10,5 +10,5 @@ My goal is to create something meaningful and inspiring through it. So I hope to
 
 👉 [Visit Jinikal Art Universe](https://jinikal.art)
 
-<img src="https://github.com/user-attachments/assets/d443e197-ca27-41a7-b235-cd4e51bf279a" alt="JinikalArt Website" width="750" height="900"/> 
+<img src="https://github.com/user-attachments/assets/a7d2bfa5-a473-4214-ab7e-fa8bd0318e1f" alt="JinikalArt Website" width="750" height="900"/>
 <img src="https://github.com/user-attachments/assets/b63fd63c-34bf-402c-b2ba-f7672a9945ee" alt="JinikalArt Website" width="750" />
